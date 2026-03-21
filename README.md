@@ -7,7 +7,7 @@ Cybersecurity Analyst focused on SOC operations, incident response, SIEM, and th
 - Junior SOC Analyst with hands-on experience in security monitoring and incident triage
 - Interested in SIEM, DFIR, threat intelligence, and detection engineering
 - Currently preparing for eCTHP and seeking an internship or part-time role in cybersecurity
-- 
+
 ## Skills
 - SIEM: ELK, QRadar, ArcSight, LogRhythm, Splunk
 - EDR/XDR: Crowdstrike, Wazuh
