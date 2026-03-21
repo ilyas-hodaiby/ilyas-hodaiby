@@ -7,7 +7,7 @@ Cybersecurity Analyst focused on SOC operations, incident response, SIEM, and th
 - Junior SOC Analyst with hands-on experience in security monitoring and incident triage
 - Interested in SIEM, DFIR, threat intelligence, and detection engineering
 - Currently preparing for eCTHP and seeking an internship or part-time role in cybersecurity
-
+- 
 ## Skills
 - SIEM: ELK, QRadar, ArcSight, LogRhythm, Splunk
 - EDR/XDR: Crowdstrike, Wazuh
@@ -18,8 +18,13 @@ Cybersecurity Analyst focused on SOC operations, incident response, SIEM, and th
 - OSINT, Phishing Analysis, Basic Digital Forensics
 
 ## Featured Projects
-- Enterprise Network Design & Security Project
-- SOC Lab Project (coming soon)
+### Enterprise Network Design & Security Project
+- Designed and simulated a secure enterprise network  
+- Implemented VLANs, OSPF, ACLs, and redundancy  
+- Focused on scalability and network security
+
+### SOC Lab Project (Coming Soon)
+- Building a full SOC environment with SIEM and monitoring  
 
 ## Certifications & Training
 - Preparing for eCTHP (INE)
@@ -29,5 +34,5 @@ Cybersecurity Analyst focused on SOC operations, incident response, SIEM, and th
 - Cisco Security Operations & SIEM
 
 ## Contact
-- Email: ilyas.hodaiby@gmail.com
-- LinkedIn: www.linkedin.com/in/ilyas-hodaiby-7216a3238
+- Email: ilyas.hodaiby@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/ilyas-hodaiby-7216a3238  
