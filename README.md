@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ilyas Hodaiby 👋
 
-<!--
-**ilyas-hodaiby/ilyas-hodaiby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Analyst focused on SOC operations, incident response, SIEM, and threat hunting.
 
-Here are some ideas to get you started:
+## About Me
+- MSc Computer Science student at Ulster University – London
+- Junior SOC Analyst with hands-on experience in security monitoring and incident triage
+- Interested in SIEM, DFIR, threat intelligence, and detection engineering
+- Currently preparing for eCTHP and seeking an internship or part-time role in cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- SIEM: ELK, QRadar, ArcSight, LogRhythm, Splunk
+- EDR/XDR: Crowdstrike, Wazuh
+- Incident Response & Triage
+- Threat Intelligence: MISP, OpenCTI
+- SOAR: TheHive, Cortex
+- Vulnerability Assessment: Rapid7, Nmap
+- OSINT, Phishing Analysis, Basic Digital Forensics
+
+## Featured Projects
+- Enterprise Network Design & Security Project
+- SOC Lab Project (coming soon)
+
+## Certifications & Training
+- Preparing for eCTHP (INE)
+- Mastercard Cybersecurity Virtual Experience
+- Cisco Cybersecurity Essentials
+- Deloitte Cybersecurity Virtual Experience
+- Cisco Security Operations & SIEM
+
+## Contact
+- Email: ilyas.hodaiby@gmail.com
+- LinkedIn: www.linkedin.com/in/ilyas-hodaiby-7216a3238
