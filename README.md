@@ -1,6 +1,6 @@
 # Hi, I'm Ilyas Hodaiby 👋
 
-**Cybersecurity Student | Aspiring SOC Analyst | Threat Detection & Incident Response**
+**Cybersecurity Analyst | SOC Analyst | Threat Detection & Incident Response**
 
 ---
 
