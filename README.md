@@ -95,12 +95,6 @@
 
 ---
 
-##  GitHub Stats
-
-![Ilyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyas-hodaiby&show_icons=true&theme=dark&hide_border=true)
-
----
-
 ##  Contact
 
 - 📧 Email: ilyas.hodaiby@gmail.com
