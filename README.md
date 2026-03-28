@@ -88,6 +88,7 @@
 | Certification | Provider | Status |
 |---|---|---|
 | eCTHP — Certified Threat Hunting Professional | INE | In Progress |
+| SOC Analyst Essentials | Alphorm | Completed |
 | Cybersecurity Virtual Experience | Mastercard | Completed |
 | Cybersecurity Virtual Experience | Deloitte | Completed |
 | Cybersecurity Essentials | Cisco | Completed |
