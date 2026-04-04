@@ -2,12 +2,15 @@
 
 **Cybersecurity Analyst | SOC Analyst | Threat Detection & Incident Response**
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ilyas.ho.png)](https://tryhackme.com/p/ilyas.ho)
+
 ---
 
 ## About Me
 
 -  MSc Computer Science student at **Ulster University — London**
 -  Passionate about **SOC operations, threat detection, SIEM, and incident response**
+-  **TryHackMe** — Top 6% globally, 53 rooms completed
 -  Built hands-on labs simulating real-world attacks and detection pipelines
 -  Currently preparing for **eCTHP (INE)** certification
 -  Actively seeking an **internship or junior SOC analyst role**
