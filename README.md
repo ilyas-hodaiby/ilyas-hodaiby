@@ -10,7 +10,7 @@
 
 -  MSc Computer Science student at **Ulster University — London**
 -  Passionate about **SOC operations, threat detection, SIEM, and incident response**
--  **TryHackMe** — Top 6% globally, 53 rooms completed
+-  **TryHackMe** Top 6% globally, 70 rooms completed
 -  Built hands-on labs simulating real-world attacks and detection pipelines
 -  Currently preparing for **eCTHP (INE)** certification
 -  Actively seeking an **internship or junior SOC analyst role**
