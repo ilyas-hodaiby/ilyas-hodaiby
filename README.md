@@ -20,9 +20,9 @@
 ##  Technical Skills
 
 **SIEM & Log Management**
-- Wazuh — deployed, configured agents, wrote custom detection rules
-- ELK Stack (Elasticsearch, Logstash, Kibana) — built ingestion pipelines and dashboards
-- QRadar, Splunk, ArcSight, LogRhythm — theoretical knowledge
+- Wazuh deployed, configured agents, wrote custom detection rules
+- ELK Stack (Elasticsearch, Logstash, Kibana) built ingestion pipelines and dashboards
+- QRadar, Splunk, ArcSight, LogRhythm theoretical knowledge
 
 **Threat Detection & Analysis**
 - Custom rule writing (Wazuh)
